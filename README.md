@@ -9,11 +9,11 @@
 
 ---
 
-### 🏴‍☠️ Quem sou eu?
-Meu nome é **João**, sou desenvolvedor e estudante de Sistemas de Informação. Encaro cada linha de código como uma nova exploração e cada bug como um desafio a ser superado. Assim como numa longa viagem pelos mares, acredito que a persistência é a chave para transformar ideias complexas em realidade. 
+### 👨‍💻 Sobre mim
+Meu nome é **João Pedro dos Santos Souza**, sou desenvolvedor e formando em Sistemas de Informações. Sou focado em construir soluções eficientes e aplicar meus conhecimentos para resolver problemas reais. Acredito que a consistência e o aprendizado contínuo são fundamentais para transformar ideias complexas em softwares de alto impacto e qualidade.
 
-### ⚔️ Meu Arsenal
-Estas são as ferramentas que dominam meu convés nas batalhas diárias de desenvolvimento:
+### 🛠️ Tecnologias e Ferramentas
+Abaixo estão as principais tecnologias que utilizo atualmente no desenvolvimento de projetos e aplicações:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -24,8 +24,8 @@ Estas são as ferramentas que dominam meu convés nas batalhas diárias de desen
 
 ---
 
-### 🧭 Onde me encontrar
-*(Sinta-se à vontade para me chamar para um café ou uma nova aventura!)*
+### 📬 Contato
+*(Sinta-se à vontade para entrar em contato comigo e saber mais sobre meu trabalho.)*
 
 <div align="center">
   <a href="mailto:seu-email@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
