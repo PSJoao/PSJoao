@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/Wc9H60lR_hMAAAAC/luffy-one-piece.gif" width="250" alt="Luffy"/>
+  <img src="https://media.tenor.com/kGe0A0NBA8kAAAAj/one-piece-pixel.gif" width="250" alt="Luffy"/>
 
-  # Saudações, viajante! 🌊⛵
+  # Saudações, viajante!
 
   *"Nossa maior glória não reside no fato de nunca cairmos, mas sim em levantarmo-nos sempre depois de cada queda."* <br>
   — **Confúcio**
